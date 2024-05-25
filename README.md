@@ -1,6 +1,6 @@
 <h1>Report: Bank Web Service</h1>
     <h2>Introduction</h2>
-    <p>This report provides a detailed overview of the "Bank Web Service" project, which was developed to demonstrate the capabilities of modern web service technologies using JAX-WS. The service facilitates various banking operations via a SOAP-based interface, including currency conversion and account management. The project showcases the application of XML web services in real-world scenarios, enhancing understanding of both client and server-side implementations.</p>
+    <p>This report provides a detailed overview of the "Bank Web Service" project, which was developed to demonstrate the capabilities of modern web service technologies. The service facilitates various banking operations via a SOAP-based interface, including currency conversion and account management. The project showcases the application of XML web services in real-world scenarios, enhancing understanding of both client and server-side implementations.</p>
 
   <h2>Project Structure</h2>
     <p>The project is organized into several packages and modules, detailing the server side as well as the generated SOAP client:</p>
@@ -34,3 +34,5 @@
 
   <h2>Testing the Operations</h2>
     <p>The operations of the web service can be tested using tools such as SoapUI or Postman for SOAP by loading the WSDL and sending requests to the different operations exposed.</p>
+    <h2>Conclusion</h2>
+    <p>This project successfully demonstrates the implementation and functionality of a SOAP-based web service using JAX-WS. The service efficiently handles various banking operations, offering a robust example of web service integration in enterprise applications. Moving forward, this project could be expanded to include more complex banking operations, incorporate additional security measures, and enhance scalability by integrating microservices architecture.</p>
