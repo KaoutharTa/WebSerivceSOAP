@@ -1,5 +1,6 @@
 <h1>Report: Bank Web Service</h1>
-    <p>This report presents a simple web service application that exposes features related to bank account management. The web service is implemented using the JAX-WS specification (Java API for XML Web Services).</p>
+    <h2>Introduction</h2>
+    <p>This report provides a detailed overview of the "Bank Web Service" project, which was developed to demonstrate the capabilities of modern web service technologies using JAX-WS. The service facilitates various banking operations via a SOAP-based interface, including currency conversion and account management. The project showcases the application of XML web services in real-world scenarios, enhancing understanding of both client and server-side implementations.</p>
 
   <h2>Project Structure</h2>
     <p>The project is organized into several packages and modules, detailing the server side as well as the generated SOAP client:</p>
